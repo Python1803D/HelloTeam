@@ -8,3 +8,6 @@ for i in range(10):
     print("I purchase a sound car")
 
 print("I need to install machine, I do not know it")
+
+
+print("Daniel Zhu add code here")
