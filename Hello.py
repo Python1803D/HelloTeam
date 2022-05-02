@@ -14,3 +14,8 @@ print("Daniel Zhu add code here")
 
 
 print("Derek is working his code in here")
+
+print("Python is good language, Pythong can cross platform")
+
+print("Daniel have go to school")
+
