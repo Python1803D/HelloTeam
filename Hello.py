@@ -14,3 +14,7 @@ print("Daniel Zhu add code here")
 
 
 print("Derek is working his code in here")
+
+print("Python is best language")
+
+print("if you want to learn, you need learn c")
