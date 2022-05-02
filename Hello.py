@@ -1,5 +1,5 @@
-print ("You are a genius person")
+print("You are a genius person")
 
-print ("You can stand and sleep")
+print("You can stand and sleep")
 
-print ("Third Party change the code")
+print("Third Party change the code")
