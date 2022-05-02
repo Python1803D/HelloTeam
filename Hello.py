@@ -10,4 +10,7 @@ for i in range(10):
 print("I need to install machine, I do not know it")
 
 
+print("Daniel Zhu add code here")
+
+
 print("Derek is working his code in here")
